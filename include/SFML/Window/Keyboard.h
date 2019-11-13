@@ -144,11 +144,11 @@ typedef enum
 
     // Deprecated values:
 
-    sfKeyDash      = sfKeyHyphen,       ///< \deprecated Use Hyphen instead
-    sfKeyBack      = sfKeyBackspace,    ///< \deprecated Use Backspace instead
-    sfKeyBackSlash = sfKeyBackslash,    ///< \deprecated Use Backslash instead
-    sfKeySemiColon = sfKeySemicolon,    ///< \deprecated Use Semicolon instead
-    sfKeyReturn    = sfKeyEnter         ///< \deprecated Use Enter instead
+    // sfKeyDash      = sfKeyHyphen,       ///< \deprecated Use Hyphen instead
+    // sfKeyBack      = sfKeyBackspace,    ///< \deprecated Use Backspace instead
+    // sfKeyBackSlash = sfKeyBackslash,    ///< \deprecated Use Backslash instead
+    // sfKeySemiColon = sfKeySemicolon,    ///< \deprecated Use Semicolon instead
+    // sfKeyReturn    = sfKeyEnter         ///< \deprecated Use Enter instead
 } sfKeyCode;
 
 
